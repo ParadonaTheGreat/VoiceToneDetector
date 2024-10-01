@@ -2,7 +2,7 @@
 
 ## How to use
 
-The user starts by clicking the start recording button. They then record the audio they want to detect and then hit stop recording. After this, the program analyzes the speech and outputs  the emotions they had.  
+The user starts by clicking the start recording button. They then record the audio they want to detect and then hit stop recording. After this, the program analyzes the speech and outputs the emotions they had.  
 
 ## Project
 
